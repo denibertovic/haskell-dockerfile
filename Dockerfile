@@ -24,7 +24,7 @@ RUN cd /tmp/cabal-install-1.20.0.3 && ./bootstrap.sh
 
 RUN rm -rf /tmp/cabal* && rm -rf /tmp/ghc*
 
-ADD ghci /root/.ghci
+ADD files/ghci /root/.ghci
 RUN chown root. /root/.ghci
 
 CMD ["/bin/bash"]
