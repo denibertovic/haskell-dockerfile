@@ -1,6 +1,6 @@
 # Haskell
 
-![Haskell logo](../blob/master/img/haskell_logo.png?raw=true)
+![Haskell logo](../master/img/haskell_logo.png?raw=true)
 
 # Basic info about the image
 
